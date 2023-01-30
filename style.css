@@ -1,0 +1,37 @@
+body{
+    background-color: green;
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.container{
+    width: 400px;
+    height: 500px;
+    margin: 30px auto;
+    color: #fff;
+    text-align: center;
+    background: black;
+    box-shadow: gray;
+}
+h1{
+    color: black;;
+}
+#message-el{
+    font-weight: bold;
+    font-style: italic;
+}
+button{
+    color: #016f32;
+    background-color: goldenrod;
+    border: none;
+    height: 10%;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 3px;
+    margin-bottom: 4px;
+    cursor: pointer;
+}
+h1, p, button {
+    margin-top: 80px;
+}
